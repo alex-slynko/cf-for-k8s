@@ -10,6 +10,10 @@ directories:
         envs...'
       sha: b4375d0b13cb853ee402a9530b54188772c24ff6
     path: github.com/cloudfoundry/cf-k8s-networking
+  - git:
+      commitTitle: Add ability to use custom CCDB configuration...
+      sha: 17115b86bc0b5d16bec0be4b7d325523a18721aa
+    path: github.com/cloudfoundry/capi-k8s-release
   - manual: {}
     path: istio
   - manual: {}
